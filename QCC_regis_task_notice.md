@@ -20,7 +20,7 @@
 
 点击下述链接打开网页后，点击【Download】进行Excel模板的下载，如果无法下载，则联系总公办冯燕涛通过其他方式获取。
 
-[**3.1 QC小组活动注册登记表**](https://github.com/keepgrowing27/Quality-Control-Circle/commit/881b7a629a3a2bb26fea0379c35098576a32155e)
+[**3.1 QC小组活动注册登记表**](https://github.com/keepgrowing27/Quality-Control-Circle/blob/master/QCC_registry_excel.xlsm)
 
 [**3.2 QC小组活动课题选定表**](https://github.com/keepgrowing27/Quality-Control-Circle/blob/master/QCC_task_excel.xlsm)
 
