@@ -30,7 +30,7 @@
 
 [**4.1 QC小组活动总体认识**](https://github.com/keepgrowing27/Quality-Control-Circle/blob/master/1.%20QC_Overview.md)
 
-[**4.2 QC小组的创建**](https://github.com/keepgrowing27/Quality-Control-Circle/commit/af195d604049d099b79f90997c541232211aa101)
+[**4.2 QC小组的创建**](https://github.com/keepgrowing27/Quality-Control-Circle/blob/master/2.QCC_Registry.md)
 
 [**4.3 QC课题的确定**](https://github.com/keepgrowing27/Quality-Control-Circle/blob/master/3.%20QC_subject_selection.md)
 
